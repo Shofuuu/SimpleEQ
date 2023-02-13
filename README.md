@@ -16,8 +16,9 @@ To build and run this application, you will need the following:
 
 1. Clone the repository to your local machine.
 
+```
 git clone https://github.com/YOUR-GITHUB-USERNAME/SimpleEQ.git
-
+```
 
 2. Open the project in your development environment.
 
